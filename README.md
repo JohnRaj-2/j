@@ -129,7 +129,3 @@ Chandni Gupta
 
 MIT License
 
-```
-
-If you want, I can also add **GitHub badges, screenshots, and demo GIF** to make it look top-tier.
-```
